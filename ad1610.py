@@ -1,3 +1,4 @@
+print("This is calculator app")
 print("\nSelect an operation:")
 print("1. Addition")
 print("2. Subtraction")
