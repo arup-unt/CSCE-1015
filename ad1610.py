@@ -1,4 +1,4 @@
-print("This is calculator app")
+print("This python script adds. subtracts, multiplies and divides numbers")
 print("\nSelect an operation:")
 print("1. Addition")
 print("2. Subtraction")
