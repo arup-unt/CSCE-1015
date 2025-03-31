@@ -1,9 +1,9 @@
 print("This python script adds. subtracts, multiplies and divides numbers")
 print("\nSelect an operation:")
-print("1. Addition")
-print("2. Subtraction")
-print("3. Multiplication")
-print("4. Division")
+print("1. Addition\n")
+print("2. Subtraction\n")
+print("3. Multiplication\n")
+print("4. Division\n")
 
 choice = input("Enter your choice (1-4): ")
 
